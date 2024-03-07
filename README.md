@@ -1,6 +1,7 @@
 # kb-cats
 
 test mirror
+test mirror
 
 ## Getting started
 
